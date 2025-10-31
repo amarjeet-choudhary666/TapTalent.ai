@@ -206,7 +206,3 @@ The API automatically ensures data freshness:
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
-## 📄 License
-
-This project is part of the TapTalent.ai assignment and is for demonstration purposes.
